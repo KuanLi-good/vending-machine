@@ -1,0 +1,2 @@
+Items sold: 2 of Pringles, Amount paid : null, null, Paid with null by 1
+Items sold: 3 of Sour Patch, Amount paid : 10.0, Change amount: 1.0, Change details: 2*$0.5, Paid with cash by 2

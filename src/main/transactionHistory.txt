@@ -1,0 +1,10 @@
+Mineral Water, Anonymous
+Sprite, Anonymous
+Coca cola, Anonymous
+M&M, Anonymous
+Bounty, Anonymous
+Mentos, 1
+Sour Patch, 1
+Skittles, 1
+Pepsi, 1
+Juice, 1

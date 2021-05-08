@@ -1,0 +1,4 @@
+customer, 1, 1
+cashier, 4, 4
+seller, 5, 5
+owner, 6, 6

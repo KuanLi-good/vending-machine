@@ -1,0 +1,16 @@
+Mineral Water, 1001, drink, 7, 3.0, 0
+Sprite, 1002, drink, 7, 3.0, 0
+Coca cola, 1003, drink, 7, 3.0, 0
+M&M, 1004, chocolate, 7, 3.0, 0
+Bounty, 1005, chocolate, 7, 3.0, 0
+Mars, 1006, chocolate, 7, 3.0, 0
+Snickers, 1007, chocolate, 7, 3.0, 0
+Smiths, 1008, chip, 7, 3.0, 0
+Pringles, 1009, chip, 7, 3.0, 0
+Kettle, 1010, chip, 7, 3.0, 0
+Thins, 1011, chip, 7, 3.0, 0
+Mentos, 1012, candies, 7, 3.0, 0
+Sour Patch, 1013, candies, 7, 3.0, 0
+Skittles, 1014, candies, 7, 3.0, 0
+Pepsi, 1015, drink, 7, 3.0, 0
+Juice, 1016, drink, 7, 2.0, 0
