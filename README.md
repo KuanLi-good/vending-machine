@@ -1,7 +1,7 @@
 
 
 
-SOFT2412 Vending Machine 
+A Vending Machine with GUI handles various tasks depended on user types. 
 
 
 USER LOGIN
